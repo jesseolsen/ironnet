@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ironnet/static/css/main.47ec4b7e.chunk.css",
-    "main.js": "/ironnet/static/js/main.150c2860.chunk.js",
-    "main.js.map": "/ironnet/static/js/main.150c2860.chunk.js.map",
+    "main.js": "/ironnet/static/js/main.6962971c.chunk.js",
+    "main.js.map": "/ironnet/static/js/main.6962971c.chunk.js.map",
     "runtime-main.js": "/ironnet/static/js/runtime-main.53467786.js",
     "runtime-main.js.map": "/ironnet/static/js/runtime-main.53467786.js.map",
     "static/js/2.7a606bd1.chunk.js": "/ironnet/static/js/2.7a606bd1.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.53467786.js",
     "static/js/2.7a606bd1.chunk.js",
     "static/css/main.47ec4b7e.chunk.css",
-    "static/js/main.150c2860.chunk.js"
+    "static/js/main.6962971c.chunk.js"
   ]
 }

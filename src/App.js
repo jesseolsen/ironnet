@@ -1,9 +1,9 @@
 import { HashRouter, Route, Switch } from 'react-router-dom';
 
-import SignIn from './signIn/signIn';
-import ResetPassword from './resetPassword/resetPassword';
-import ResetPasswordInput from './resetPasswordInput/resetPasswordInput';
-import ResetPasswordConfirmation from './resetPasswordConfirmation/resetPasswordConfirmation';
+import SignIn from './Components/signIn/signIn';
+import ResetPassword from './Components/resetPassword/resetPassword';
+import ResetPasswordInput from './Components/resetPasswordInput/resetPasswordInput';
+import ResetPasswordConfirmation from './Components/resetPasswordConfirmation/resetPasswordConfirmation';
 import { GlobalStyle } from './Styled/Global';
 
 function App() {

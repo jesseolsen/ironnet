@@ -15,12 +15,10 @@ class ResetPasswordConfirmation extends React.Component {
         data-layer="eace64b3-f1c2-4cf1-b68e-2bca83266a6f"
         className="resetPasswordConfirmation"
       >
-        {" "}
         <div
           data-layer="66204e7c-8583-4246-809c-cab61be6aef8"
           className="signIn6eddf2e8"
         >
-          {" "}
           <div
             data-layer="35ee9749-3a22-4d6e-8170-5d2f1343caa3"
             className="bg532b8fd6"
@@ -35,7 +33,6 @@ class ResetPasswordConfirmation extends React.Component {
             data-layer="506b0469-7c89-4618-8fda-01f4c5da2e46"
             className="content"
           >
-            {" "}
             <div
               data-layer="3bd0e4f9-f23a-4116-9148-a4517c306b3b"
               className="forgotYourPasswordResetItHere"
@@ -52,7 +49,6 @@ class ResetPasswordConfirmation extends React.Component {
               data-layer="64925271-f975-43cd-b6fb-35ec4b7acccc"
               className="button"
             >
-              {" "}
               <div
                 data-layer="ae00cf59-9a5b-4a64-b26b-ceb0e6fda798"
                 className="buttonBg"
@@ -68,7 +64,6 @@ class ResetPasswordConfirmation extends React.Component {
               data-layer="eb2c9e08-181b-43b2-9580-76489b076330"
               className="inputd12cf21e"
             >
-              {" "}
               <div
                 data-layer="7e55c285-408e-4c32-8415-2c06ad82ef97"
                 className="bgc43139ab"
@@ -84,7 +79,6 @@ class ResetPasswordConfirmation extends React.Component {
               data-layer="3115f54a-1455-49bb-932f-444ce4a7d448"
               className="input"
             >
-              {" "}
               <div
                 data-layer="f8af9114-558a-4ddd-826d-09026cc5e747"
                 className="bg16362a48"
@@ -116,7 +110,6 @@ class ResetPasswordConfirmation extends React.Component {
               data-layer="2f3baadd-6ebe-48d6-911d-5eb8fff71730"
               className="toast"
             >
-              {" "}
               <div
                 data-layer="0f77ad6b-e0f9-44c7-b0b1-c7967a27f753"
                 className="bg"
@@ -145,12 +138,10 @@ class ResetPasswordConfirmation extends React.Component {
           </a>
         </div>
         <div data-layer="12a14045-8385-4175-9c78-aeb62fbd8900" className="cta">
-          {" "}
           <div
             data-layer="23f53c3a-82da-4c15-9ebe-e4b5b270fb07"
             className="background"
           >
-            {" "}
             <div
               data-layer="a0b4475a-2416-4e0e-9d11-d3b7d4cf74b3"
               className="gradient"
@@ -180,7 +171,6 @@ class ResetPasswordConfirmation extends React.Component {
             data-layer="1a58eb45-6ca9-4a71-8101-624276658d3b"
             className="logo"
           >
-            {" "}
             <div
               data-layer="24024dfe-9d90-48b3-bc7c-837b2d7e64b1"
               className="acme"

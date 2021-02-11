@@ -1,6 +1,7 @@
 import React from "react";
 
 import "./signIn.css";
+import "./css-in-js.jsx";
 
 class SignIn extends React.Component {
   constructor(props) {

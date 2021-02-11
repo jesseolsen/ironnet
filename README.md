@@ -1,4 +1,34 @@
-# Getting Started with Create React App
+# IronNet
+
+UI/UX Engineer Challenge
+
+This repo is a code sample.
+This project is deployed at [https://jesseolsen.github.io/ironnet](https://jesseolsen.github.io/ironnet)
+The source code can be found in GitHub at [https://github.com/jesseolsen/ironnet](https://github.com/jesseolsen/ironnet)
+
+## Challenge
+
+Implement the provided app design using modern best practices for front-end web development. The expected flow is _Login Screen â†’ Forgot Password â†’ <Submit> â†’ Login Screen with dismissible notification_. The primary areas of evaluation are code composition and attention to aesthetic detail. Please use React, React hooks, and your favorite CSS-in-JS framework to do the styling. Feel free to use any additional javascript libraries that will improve legibility of the code.
+
+## What's provided
+
+(1) PDF with Design Tokens, (1) Adobe XD design file, (1) PDF of design mockup
+
+## Delivery medium
+
+Any of the following:
+
+a) URL to a sandbox on https://codesandbox.io,
+
+b) URL to a remote git repository (e.g. GitHub or GitLab),
+
+or c) ZIP archive with source files
+
+## Time limit
+
+Maximum three hours. Completeness is not a significant factor during evaluation.
+
+## Bootstrapped
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -29,42 +59,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

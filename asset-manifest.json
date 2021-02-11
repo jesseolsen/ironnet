@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ironnet/static/css/main.47ec4b7e.chunk.css",
-    "main.js": "/ironnet/static/js/main.c3c5fd9d.chunk.js",
-    "main.js.map": "/ironnet/static/js/main.c3c5fd9d.chunk.js.map",
+    "main.js": "/ironnet/static/js/main.38da72b6.chunk.js",
+    "main.js.map": "/ironnet/static/js/main.38da72b6.chunk.js.map",
     "runtime-main.js": "/ironnet/static/js/runtime-main.53467786.js",
     "runtime-main.js.map": "/ironnet/static/js/runtime-main.53467786.js.map",
-    "static/js/2.7a606bd1.chunk.js": "/ironnet/static/js/2.7a606bd1.chunk.js",
-    "static/js/2.7a606bd1.chunk.js.map": "/ironnet/static/js/2.7a606bd1.chunk.js.map",
+    "static/js/2.0678cbcd.chunk.js": "/ironnet/static/js/2.0678cbcd.chunk.js",
+    "static/js/2.0678cbcd.chunk.js.map": "/ironnet/static/js/2.0678cbcd.chunk.js.map",
     "static/js/3.e59f3964.chunk.js": "/ironnet/static/js/3.e59f3964.chunk.js",
     "static/js/3.e59f3964.chunk.js.map": "/ironnet/static/js/3.e59f3964.chunk.js.map",
     "index.html": "/ironnet/index.html",
     "static/css/main.47ec4b7e.chunk.css.map": "/ironnet/static/css/main.47ec4b7e.chunk.css.map",
-    "static/js/2.7a606bd1.chunk.js.LICENSE.txt": "/ironnet/static/js/2.7a606bd1.chunk.js.LICENSE.txt",
+    "static/js/2.0678cbcd.chunk.js.LICENSE.txt": "/ironnet/static/js/2.0678cbcd.chunk.js.LICENSE.txt",
     "static/media/resetPasswordConfirmation.css": "/ironnet/static/media/gradient.0097213c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.53467786.js",
-    "static/js/2.7a606bd1.chunk.js",
+    "static/js/2.0678cbcd.chunk.js",
     "static/css/main.47ec4b7e.chunk.css",
-    "static/js/main.c3c5fd9d.chunk.js"
+    "static/js/main.38da72b6.chunk.js"
   ]
 }

@@ -3,12 +3,21 @@
 UI/UX Engineer Challenge
 
 This repo is a code sample.
-This project is deployed at [https://jesseolsen.github.io/ironnet](https://jesseolsen.github.io/ironnet)
-The source code can be found in GitHub at [https://github.com/jesseolsen/ironnet](https://github.com/jesseolsen/ironnet)
+* This project is deployed at [https://jesseolsen.github.io/ironnet](https://jesseolsen.github.io/ironnet)
+* The source code can be found in GitHub at [https://github.com/jesseolsen/ironnet](https://github.com/jesseolsen/ironnet)
 
 ## Challenge
 
-Implement the provided app design using modern best practices for front-end web development. The expected flow is _Login Screen â†’ Forgot Password â†’ <Submit> â†’ Login Screen with dismissible notification_. The primary areas of evaluation are code composition and attention to aesthetic detail. Please use React, React hooks, and your favorite CSS-in-JS framework to do the styling. Feel free to use any additional javascript libraries that will improve legibility of the code.
+* Implement the provided app design using modern best practices for front-end web development.
+* The expected flow is _Login Screen  => Forgot Password => Submit => Login Screen with dismissible notification_.
+* The primary areas of evaluation are:
+  * code composition and
+  * attention to aesthetic detail.
+* Please use:
+  * React,
+  * React hooks, and
+  * your favorite CSS-in-JS framework to do the styling.
+  * Feel free to use any additional javascript libraries that will improve legibility of the code.
 
 ## What's provided
 

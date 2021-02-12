@@ -1,9 +1,9 @@
 import React from "react";
 
 import "./signIn.css";
-import "./css-in-js.jsx";
+import { SignIn, SignInFooter } from "./css-in-js.jsx";
 
-class SignIn extends React.Component {
+class SignInPage extends React.Component {
   constructor(props) {
     super(props);
     this.state = {};
@@ -11,11 +11,8 @@ class SignIn extends React.Component {
 
   render() {
     return (
-      <div data-layer="103ad1f3-9b1e-4af7-b9bd-fb3550778ba5" className="signIn">
-        <div
-          data-layer="94886d01-4ae1-42cc-8abe-32daa046b8bc"
-          className="signInddb2705e"
-        >
+      <SignIn className="signIn">
+        <SignInFooter className="signInddb2705e">
           <div
             data-layer="24e22650-802c-41ec-b6fa-9b8f17dfae19"
             className="bg721fe8a7"
@@ -37,9 +34,9 @@ class SignIn extends React.Component {
               <span className="forgotYourPasswordResetItHere-0">
                 Forgot your password?{" "}
               </span>
-              <span className="forgotYourPasswordResetItHere-22">
-                <a href='#/resetPassword'>Reset it here</a>
-              </span>
+              <a className="forgotYourPasswordResetItHere-22"
+                href='#/resetPassword'>Reset it here
+              </a>
               <span className="forgotYourPasswordResetItHere-35">.</span>
             </div>
             <div
@@ -102,7 +99,7 @@ class SignIn extends React.Component {
               Sign In
             </div>
           </div>
-        </div>
+        </SignInFooter>
         <div data-layer="15314543-9faa-4802-9f6b-0d2d4be597e8" className="cta">
           <div
             data-layer="e9a2536f-3ce6-4ed8-a366-932f173d7e76"
@@ -149,13 +146,13 @@ class SignIn extends React.Component {
             ></div>
           </div>
         </div>
-      </div>
+      </SignIn>
     );
   }
 }
 
-SignIn.propTypes = {};
+SignInPage.propTypes = {};
 
-SignIn.defaultProps = {};
+SignInPage.defaultProps = {};
 
-export default SignIn;
+export default SignInPage;

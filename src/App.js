@@ -1,13 +1,12 @@
 import { HashRouter, Route, Switch } from 'react-router-dom';
 
-import SignIn from './Components/signIn/signIn';
+import SignInPage from './Components/signIn/signIn';
 import ResetPassword from './Components/resetPassword/resetPassword';
 import ResetPasswordInput from './Components/resetPasswordInput/resetPasswordInput';
 import ResetPasswordConfirmation from './Components/resetPasswordConfirmation/resetPasswordConfirmation';
 import { GlobalStyle } from './Styled/Global';
 
 function App() {
-  console.log('hashrouter. url:', process.env.PUBLIC_URL);
   return (
     <div className="App">
       <GlobalStyle />
@@ -23,7 +22,7 @@ function App() {
             <ResetPasswordConfirmation />
           </Route>
           <Route path="/">
-            <SignIn />
+            <SignInPage />
           </Route>
         </Switch>
       </HashRouter>

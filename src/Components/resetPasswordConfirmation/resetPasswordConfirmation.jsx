@@ -105,7 +105,7 @@ class ResetPasswordConfirmation extends React.Component {
               Sign In
             </div>
           </div>
-          <a href='#/'>
+          <a href='/#/'>
             <div
               data-layer="2f3baadd-6ebe-48d6-911d-5eb8fff71730"
               className="toast"
